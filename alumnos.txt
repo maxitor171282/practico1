@@ -1,4 +1,3 @@
-nombre maxitor@hotmail.com
-nombre email@email.com
+alumno1 email1@emal.com
 alumno2 email2@email.com
 alumno3 email3@email.com
